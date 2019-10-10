@@ -18,6 +18,7 @@ namespace TestSwagger.WebApi
     {
         public Startup(IConfiguration configuration)
         {
+            //modified by wangdong from dev 1
             Configuration = configuration;
         }
 
